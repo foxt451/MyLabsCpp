@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="..\MyLab1\Lab2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\Петренко_Святозар_Лаб02_ІП01 (2).docx" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
