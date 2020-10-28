@@ -21,4 +21,5 @@ int main()
 		y = 4;
 	}
 	cout << "f(x) = " << y << endl;
+	system("pause");
 }
